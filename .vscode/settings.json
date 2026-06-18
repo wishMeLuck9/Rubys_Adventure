@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Rubys_Adventure_63577-main.slnx"
+    "dotnet.defaultSolution": "Rubys_Adventure.slnx"
 }
